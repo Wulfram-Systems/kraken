@@ -5,7 +5,7 @@
 	"version": "1.2.0",
 	"private": true,
 	"dependencies": {
-		"@babel/core": "7.5.5",
+		"@babel/core": "7.23.2",
 		"@githubprimer/octicons-react": "^8.5.0",
 		"@svgr/webpack": "4.3.2",
 		"@typescript-eslint/eslint-plugin": "1.13.0",
